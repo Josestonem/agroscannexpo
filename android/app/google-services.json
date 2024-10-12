@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815075508851",
+    "project_id": "agroscannexpo",
+    "storage_bucket": "agroscannexpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815075508851:android:9ff97964826b82210a6006",
+        "android_client_info": {
+          "package_name": "com.anonymous.agroscannexpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFf5lnQgKB0sBXL0wpvvyc4y2qwIrgPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
